@@ -1,0 +1,2 @@
+E:\Unity Fundamentals\unity level design files\level design project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Unity Fundamentals\unity level design files\level design project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
